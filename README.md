@@ -1,7 +1,7 @@
 # TDD App
 #_x_Create a new Rails application
 #_x_Install and configure the RSpec test framework with Capybara
-#Using TDD, install and integrate the Devise library for authentication and create a User class.
+#_x_Using TDD, install and integrate the Devise library for authentication and create a User class.
 #Using BDD, create integration specs that test for logging in and registering on custom URLs.
 #Using TDD, implement an Employee class that inherits from the User class using single table inheritance and add at least two attributes that #differentiates an Employee from a User.
 #There should be at least 5 specs written for this project, including both model and feature specs. All specs need to be passing in order for project to be approved.
